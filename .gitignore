@@ -1,0 +1,13 @@
+classes/
+*.class
+*.jar
+javac.*.args
+sources.txt
+compile.log
+compile-errors.txt
+*_tmp
+.idea/
+.vscode/
+*.iml
+Thumbs.db
+.DS_Store

@@ -1,0 +1,11 @@
+name: TownBuilds
+main: org.mineserver.townbuilds.TownBuildsPlugin
+version: 1.0
+api-version: 1.20
+softdepend:
+  - Towny
+permissions:
+  townbuilds.use:
+    default: true
+  townbuilds.admin:
+    default: op
